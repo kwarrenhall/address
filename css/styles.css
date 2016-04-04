@@ -1,0 +1,8 @@
+#fullName {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+ #fullName:hover {
+  text-decoration: underline;
+}
